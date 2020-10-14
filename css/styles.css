@@ -6,11 +6,14 @@ header {
 
 ul {
     list-style-type: none;
+    margin-left: -25px;
+    margin-right: 18px;
 }
 
 .header-nav {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .top-menu {
@@ -19,7 +22,7 @@ ul {
 
 .account-menu {
     display: flex;
-    margin: 15px 15px 0px 0px;    
+    #margin: 15px 15px 0px 0px;    
 }
 
 .nav-button {
