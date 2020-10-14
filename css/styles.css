@@ -21,8 +21,7 @@ ul {
 }
 
 .account-menu {
-    display: flex;
-    #margin: 15px 15px 0px 0px;    
+    display: flex;   
 }
 
 .nav-button {
@@ -36,13 +35,6 @@ ul {
 
 .nav-button:hover {
     text-decoration: underline;
-}
-
-.logo {
-}
-
-.top-menu {
-    
 }
 
 .login-button {
